@@ -16,8 +16,8 @@ GET http://localhost:4002/products
 GET http://localhost:4002/products/
 
 ###
-// ATUALIZAR PRODUTO
-PUT http://localhost:4002/products/e5bbcaf7-172c-40e1-a8a0-e32db7152766 
+// ATUALIZAR PRODUTO COM A ID
+PUT http://localhost:4002/products/
 content-Type: application/json
 
 {
@@ -25,7 +25,6 @@ content-Type: application/json
     "price": 12
 }
 
-
 ###
-// DELETAR PRODUTO
-DELETE http://localhost:4002/products/ab153f56-da6a-4141-a847-948edba7db4e
+// DELETAR PRODUTO COM A ID
+DELETE http://localhost:4002/products/
