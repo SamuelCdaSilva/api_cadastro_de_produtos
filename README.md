@@ -2,7 +2,7 @@
 
 Uma API para cadastro de produtos 🛍️
 
-Objetivo deste projeto foi aprender a base de como construir uma API.
+Projeto realizado com o objetivo de aprender a base de como construir uma API.
 
 Tecnologias utilizadas: Node.js com framework Express.js
 
